@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"  android:shape="rectangle">
+    <solid android:color="@android:color/white" />
+    <!-- Solid set the background color of the whole rectangle shape !-->
+    <!-- #B1BCBE !-->
+
+   <!-- Stroke set the Color of rectangle Border to Grey!-->
+    <stroke android:width="1dip" android:color="@android:color/black" />
+
+
+
+</shape>
